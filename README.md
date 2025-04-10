@@ -1,52 +1,77 @@
-# 🚀 프로젝트 이름
+## 📚 주요 목차
+
+> 1️⃣ 🚀 프로젝트명 및 개요<br>
+> 2️⃣ 👥 팀 소개<br>
+> 3️⃣ 🎮 게임 사용설명서<br>
+> 4️⃣ 📚 수집 데이터 설명명<br>
+> 5️⃣ 🛠 기술 스택
+> 6️⃣ 📊 ERD (Entity Relationship Diagram)
+> 7️⃣ 📋 테이블 명세
+> 8️⃣ 🌀 DFD (Data Flow Diagram)
+> 9️⃣ 💭 한줄 회고
+
+
+# 🚀 프로젝트명 및 개요 
 
 > ## 🏅 VOTE your FAVORITE !🏅
 > 2010-2025 국내외 자동차 월드컵 게임 (신차 정보 데이터 비교, 신차 구매 사이트  URL 연결) 및 FAQ 조회 시스템
 
+## 📌 프로젝트 개요
+- **프로젝트명:** 2010–2025 국내외 자동차 월드컵 게임 및 FAQ 조회 시스템
+- **설명:** 본 프로젝트는 사용자가 자동차 월드컵 게임을 통해 **선호도**를 파악하고, 다양한 신차 정보를 데이터로 제공하여 **차량 간 비교**가 가능합니다. 최종적으로는 가장 선호하는 차량을 선정하고, **해당 차량의 구매 사이트 URL**로 연결되어 구매에 도움을 줄 수 있도록 구매 정보를 제공합니다.
+- **✨ 주요 기능:**
+> - 게임 시작 전 가격 조건 필터링
+> - 자동차 월드컵 게임 (16강 토너먼트 방식)
+> - 신차 구매 사이트 URL 연결 기능
+> - FAQ 조회 시스템 (자주 묻는 질문/자동차 정보)
+
 ---
+# 👥 팀 소개 
 
 ## 🙌🏻 팀명 : **챔피언스리그🏆팀**  
->  
+>  우리 팀의 이름 ‘챔피언스리그’는 프로젝트의 핵심 기능인 자동차 월드컵 게임에서 아이디어를 얻어 지어진 이름입니다. 실제 축구 챔피언스리그처럼, 자동차들 간의 치열한 토너먼트를 통해 최종 우승 차량(챔피언)을 선정하는 컨셉을 담고 있습니다. <br> "실제 챔피언스리그 경기처럼 흥미진진한 자동차 월드컵이 되시길 바랍니다🥇"
 
-## 👥 팀원 소개
+##  🙋🏻 팀원 소개
 <p align="center">
   <a href="https://github.com/jiyun-kang12" target="_blank">
-    <img src="images/메시2.png" width="150" height="150">
+    <img src="images/메시_1.png" width="125" height="125">
   </a>
-  <a href="https://github.com/{}" target="_blank">
-    <img src="images/Cristiano Ronaldo-1.png" width="150" height="150">
+  <a href="https://github.com/mojiho" target="_blank">
+    <img src="images/Cristiano Ronaldo(배경).png" width="110" height="110">
   </a>
-  <a href="https://github.com/{}" target="_blank">
-    <img src="docs/poketmon1.png" width="150" height="150">
+  <a href="https://github.com/Jinhyeok33" target="_blank">
+    <img src="images/손흥민_1.png" width="110" height="110">
   </a>
-  <a href="https://github.com/{}" target="_blank">
-    <img src="docs/poketmon4.png" width="150" height="150">
+  <a href="https://github.com/GrowingChoi" target="_blank">
+    <img src="images/음바페.png" width="110" height="110">
   </a>
-  <a href="https://github.com/{}" target="_blank">
-    <img src="docs/poketmon5.png" width="150" height="150">
+  <a href="https://github.com/seonguihong" target="_blank">
+    <img src="images/홀란드.png" width="110" height="110">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/2wnsqo" target="_blank"><b>강지윤</b></a> |
-  <a href="https://github.com/nmmm9" target="_blank"><b>모지호</b></a> |
-  <a href="https://github.com/AshOne91" target="_blank"><b>전진혁</b></a> |
-  <a href="https://github.com/1203choi" target="_blank"><b>최성장</b></a> |
-  <a href="https://github.com/hwangchahae" target="_blank"><b>홍성의</b></a>
+  <a href="https://github.com/jiyun-kang12" target="_blank"><b>강지윤</b></a> |
+  <a href="https://github.com/mojiho" target="_blank"><b>모지호</b></a> |
+  <a href="https://github.com/Jinhyeok3" target="_blank"><b>전진혁</b></a> |
+  <a href="https://github.com/GrowingChoi" target="_blank"><b>최성장</b></a> |
+  <a href="https://github.com/seonguihong" target="_blank"><b>홍성의</b></a>
 </p>
----
-
-## 📌 프로젝트 개요
-- **프로젝트명:** 2010-2025 국내외 자동차 월드컵 게임 (신차 정보 데이터 비교, 신차 구매 사이트  URL 연결) 및 FAQ 조회 시스템 웹 프로젝트
-- **설명:** 이 프로젝트는 사용자에게 자동차 관련 각종 데이터 분석 및 시각화 데이터를 제공합니다.
-- **주요 기능:**
-  - 🔹 각 데이터 조회
-  - 🔹 데이터 시각화
-  - 🔹 기업 FAQ 조회 시스템
 
 ---
+##  🎮 게임 사용설명서
 
-## 📚 데이터 크롤링 페이지
+✨Step 1. 
+월드컵 사이트(url: )에 접속하신 후, 게임을 시작하려면 가장 "Game Start" 버튼을 클릭해주세요!
+✨Step 2.
+게임 스타트로 넘어가면 가격을 조정할 수 있는 드롭다운 버튼이 있습니다. 원하시는 가격대로 조정해주세요!
+✨Step 3.
+게임 시작! > 월드컵은 총 16강으로 진행되며 자동차의 정보들을 비교하신 후에 원하시는 자동차 클릭
+✨Step 4.
+
+---
+
+## 📚 수집 데이터 설명
 
 본 프로젝트에서 사용한 데이터 및 참고 자료는 다음과 같습니다:
 
@@ -55,42 +80,24 @@
 ### **신차 정보 데이터** 🚗
 - **출처:** [카이즈유](https://www.carisyou.com/car/) 
 - **수집 방법:** 위 웹사이트에서 **크롤링**을 통해 신차의 **차량ID**, **연비**, **연료타입**, **차급**, **외형**, **엔진**, **출력**, **이미지** 데이터를 가져왔습니다.
-
----
-
-이 데이터와 참고 자료들은 본 프로젝트의 분석 및 구현에 중요한 역할을 했습니다.
-
+- 
 ---
 
 ## 🛠 기술 스택
-- **프론트엔드:** Python(Streamlit)
+- **프론트엔드:** Python, Streamlit
 - **백엔드:** Python, Mysql(db)
 - **형상관리:** GitHub
 - **개발도구:** Vscode, Mysql
 
 ---
 
-
-## 🎯 사용자 요구사항
-- 사용자는 데이터를 조회할 수 있어야 한다.
-- 서비스는 시각화 기능을 제공해야 한다.
-- 사용자는 기업 FAQ를 조회할 수 있어야 한다.
-
----
-
-## 🖥 시스템 요구사항
-- **운영체제:** Windows
-- **필수 소프트웨어:** MySql 8.0, Python >= 3.0
-
----
-
 ## 📊 ERD (Entity Relationship Diagram)
 
-![ERD](docs/first_project_ERD.png)
+![ERD](images/ERD.png)
 
 ---
 
-## 📋 테이블 명세
+## 📋 테이블 명세  -수정 필요
 | 테이블명                 | 설명                                   | 컬럼명                                                                                                    |
 |------------------------|--------------------------------------|--------------------------------------------------------------------------------------------------------|
 | `used_car_table`        | 중고차 정보                            | `id`(INT, PK, AI), `car_name`(VARCHAR(100)), `car_year`(INT), `car_km`(INT), `car_price`(INT), `car_cate`(VARCHAR(100)), `car_brand`(VARCHAR(100)), `brand_num`(INT, FK) |
@@ -112,39 +119,11 @@
 
 
 
----
-
-## 🌀 DFD (Data Flow Diagram)
+## 🌀 DFD (Data Flow Diagram)  -수정 필요
 
 ![DFD](docs/first_project_dfd1.png)
 
 ---
-
-## 🖼 시연 이미지
-
-![시연 이미지 1](docs/1.png)  
-![시연 이미지 2](docs/2.png) 
-![시연 이미지 3](docs/3.png) 
-![시연 이미지 4](docs/4.png) 
-![시연 이미지 5](docs/5.png) 
-![시연 이미지 6](docs/6.png) 
-![시연 이미지 7](docs/7.png) 
-![시연 이미지 8](docs/8.png) 
-![시연 이미지 9](docs/9.png) 
-![시연 이미지 10](docs/10.png) 
-![시연 이미지 11](docs/11.png) 
-![시연 이미지 12](docs/12.png) 
-![시연 이미지 13](docs/13.png) 
-![시연 이미지 14](docs/14.png) 
-![시연 이미지 15](docs/15.png) 
-![시연 이미지 16](docs/16.png) 
-![시연 이미지 17](docs/17.png) 
-![시연 이미지 18](docs/18.png) 
-![시연 이미지 19](docs/19.png) 
-
----
-
-
 
 ## 💭 한줄 회고
 - **강지윤:** "처음에는 많이 버벅이고 힘들었지만 완성하고 나니 너무 뿌듯하고 보람찼습니다. 이번 프로젝트를 시작으로 이후 프로젝트도 성공적으로 완수하도록 노력하겠습니다."
