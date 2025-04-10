@@ -10,11 +10,11 @@
 
 ## 👥 팀원 소개
 <p align="center">
-  <a href="https://github.com/{}" target="_blank">
+  <a href="https://github.com/GrowingChoi" target="_blank">
     <img src="http://localhost:8890/lab/tree/project01/%EB%A9%94%EC%8B%9C.webp" width="150" height="150">
   </a>
   <a href="https://github.com/{}" target="_blank">
-    <img src="project01/메시.png" width="150" height="150">
+    <img src="image/메시.png" width="150" height="150">
   </a>
   <a href="https://github.com/{}" target="_blank">
     <img src="docs/poketmon1.png" width="150" height="150">
