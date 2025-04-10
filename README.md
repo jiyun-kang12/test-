@@ -5,7 +5,7 @@
 
 ---
 
-## 🙌🏻 팀명 : **챔피언스리그🏆팀**  
+# 🙌🏻 팀명 : **챔피언스리그🏆팀**  
 >  
 
 ## 👥 팀원 소개
@@ -19,7 +19,7 @@
   <a href="https://github.com/{}" target="_blank">
     <img src="docs/poketmon1.png" width="150" height="150">
   </a>
-  <a href="https://github.com/{}" target="_blank">
+  <a href="https://github.com/GrowingChoi" target="_blank">
     <img src="docs/poketmon4.png" width="150" height="150">
   </a>
   <a href="https://github.com/{}" target="_blank">
